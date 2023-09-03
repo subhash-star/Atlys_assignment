@@ -1,0 +1,15 @@
+
+.login-container{
+    border: 2px solid #969696;
+    background-color: #27292D;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    z-index: 100;
+}
+.color-gray{
+    font-size: 14px;
+    line-height: 14px;
+    color: #6B6C70;
+}
